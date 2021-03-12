@@ -9,7 +9,8 @@ O jogo contém versão Multiplayer e configurações que aceitam novas imagens q
 ![jogo 3](https://user-images.githubusercontent.com/48795370/104824254-e2b22e00-582e-11eb-9a87-341bb5763f04.png)
 
 ### Tecnologia
-   - Java
+
+- [Java](https://docs.oracle.com/en/java/)
 
 ### API
 
